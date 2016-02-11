@@ -1,1 +1,1 @@
-# `wget -O https://git.io/vgPfk | sudo bash`
+# `wget https://git.io/vgPfk -O - | sudo sh`
