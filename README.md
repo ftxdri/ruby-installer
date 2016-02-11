@@ -1,2 +1,1 @@
-# ruby--installer
-Simple ruby installer script
+# `wget https://git.io/vgPfk | sudo sh`
